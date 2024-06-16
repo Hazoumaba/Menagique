@@ -7,7 +7,10 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import ProgressSlider from '../components/progress-slider';
 import Product from '../components/Product';
-import SilderImg01 from '/public/ps-image-01.jpg'
+import SilderImg01 from '/public/totem.png'
+import SilderImg02 from '/public/cacao_70.png'
+import SilderImg03 from '/public/ag.jpeg'
+import SilderImg04 from '/public/milan.webp'
 import SilderIcon01 from '/public/ps-icon-01.svg'
 import SilderIcon02 from '/public/ps-icon-02.svg'
 import SilderIcon03 from '/public/ps-icon-03.svg'
@@ -19,17 +22,17 @@ const items = [
     buttonIcon: SilderIcon01,
   },
   {
-    img: SilderImg01,
+    img: SilderImg02,
     desc: 'Cacao 70',
     buttonIcon: SilderIcon02,
   },
   {
-    img: SilderImg01,
+    img: SilderImg03,
     desc: 'A&G Promotion',
     buttonIcon: SilderIcon03,
   },
   {
-    img: SilderImg01,
+    img: SilderImg04,
     desc: 'Milan Pole Dance Studio',
     buttonIcon: SilderIcon04,
   },
