@@ -1,0 +1,115 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Services",
+      "href": "product"
+    },
+    {
+      "name": "Clients",
+      "href": "pricing"
+    },
+
+    {
+      "name": "Témoignages",
+      "href": "features"
+    }
+
+  ],
+  "callToAction": {
+    "text": "Contactez Nous Pour une somassion gratuite !",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Bienvenue chez ",
+    "subtitle": "Ménagique,",
+    "description": "où la propreté devient magique ! Notre équipe dévouée transforme chaque espace en un lieu étincelant avec expertise et passion. Découvrez notre magie dès aujourd'hui !.",
+    "img": "/assets/images/happyTeam.jpg",
+    "primaryAction": {
+      "text": "Contactez nous pour une soumission gratuite !",
+      "href": "mailto:ben.amor.hassan95@gmail.com?subject=Avis"
+    }
+  },
+  "product": {
+    "title": "Nos Services",
+    "items": [
+      {
+        "title": "Nettoyage résidentiel et commercial",
+        "description": "Service de nettoyage complet pour les maisons, appartements, bureaux et espaces commerciaux. Ce service inclut le dépoussiérage, l'aspiration, le lavage des sols, et la désinfection des surfaces.",
+        "img": "https://www.douzi-nettoyage.com/images/accueil_section03_pho01.jpg"
+      },
+      {
+        "title": "Nettoyage de vitres et tapis",
+        "description": "Service spécialisé dans le nettoyage des vitres à l'intérieur et à l'extérieur, ainsi que le nettoyage et l'entretien des tapis et moquettes pour éliminer les taches, la saleté et les allergènes.",
+        "img": "https://www.o2.fr/documents/20124/80845/4c-43-nettoyage-de-vitres.jpg/746275e1-21bb-793d-18fb-cf453f141bf0?t=1584957444694"
+      },
+      {
+        "title": "Nettoyage après travaux et désinfection",
+        "description": "Nettoyage approfondi après des travaux de construction ou de rénovation, ainsi que des services de désinfection pour les salles de bain, toilettes, et autres installations sanitaires pour éliminer les bactéries et les germes.",
+        "img": "https://www.gc-nettoyage.fr/images/services/medium/adobestock-120234977.jpeg?1599139347"
+      }
+    ]
+  },
+  "features": {
+    "title": "La parole à nos clients",
+    "subtitle": "Témoignages ",
+    "description": "Chez Ménagique, la satisfaction de nos clients est notre priorité absolue. Nous sommes fiers de partager avec vous les témoignages de ceux qui ont fait l'expérience de nos services d'entretien ménager. Découvrez comment nous avons contribué à créer des environnements propres, sains et accueillants pour nos clients variés. Leur confiance et leurs retours positifs sont la meilleure preuve de notre engagement envers la qualité et l'excellence.",
+    "items": [
+      {
+        "name": "Subtsance",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon": "https://agencesubstance.ca/assets/substance/_1200x630_crop_center-center_82_none/substance-og.jpg?mtime=1689336533"
+      },
+      {
+        "name": "Chrono Innovation",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon": "https://media.designrush.com/agencies/376977/conversions/Chrono-Innovation-logo-profile.jpg"
+      },
+      {
+        "name": "Quatre Cent Quatre ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKb-VkTIEY9UPJgAvGUGwIB0vmWgsSmbedmA&s"
+      },
+      {
+        "name": "Love",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gZkzv1fBeSpmVMg-mbedWnhDHmb893ohRg&s"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Nos clients"
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Link 1",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Link 2",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Link 3",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Link 4",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    }
+  }
+}
