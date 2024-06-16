@@ -1,3 +1,6 @@
 [build]
-  publish = "out"
-  command = "npm run build-prod"
+  command = "npm run build" # or "yarn build" if you're using Yarn
+  publish = ".next" # Use "out" if you are using static exports
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
