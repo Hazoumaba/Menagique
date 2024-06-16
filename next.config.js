@@ -22,4 +22,8 @@ const nextConfig = {
   },
 }
 
-module.exports = nextConfig
+module.exports = {
+  // existing configuration...
+  output: 'export',
+  // existing configuration...
+}
