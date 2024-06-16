@@ -7,10 +7,10 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import ProgressSlider from '../components/progress-slider';
 import Product from '../components/Product';
-import SilderImg01 from '/public/totem.png'
+import SilderImg01 from '/public/ps-image-01.jpg'
 import SilderImg02 from '/public/cacao_70.png'
-import SilderImg03 from '/public/ag.jpeg'
-import SilderImg04 from '/milan.webp'
+import SilderImg03 from '/public/ps-image-01.jpg'
+import SilderImg04 from '/public/milan.webp'
 import SilderIcon01 from '/public/ps-icon-01.svg'
 import SilderIcon02 from '/public/ps-icon-02.svg'
 import SilderIcon03 from '/public/ps-icon-03.svg'
