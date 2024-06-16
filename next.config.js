@@ -26,4 +26,7 @@ module.exports = {
   // existing configuration...
   output: 'export',
   // existing configuration...
+  images: {
+    unoptimized: true
+  }
 }
